@@ -1,0 +1,4 @@
+../source/ticktime.c:72:12:now	8	static
+../source/ticktime.c:78:6:reset_timer	8	static
+../source/ticktime.c:84:12:get_timer	8	static
+../source/ticktime.c:88:6:delay	16	static

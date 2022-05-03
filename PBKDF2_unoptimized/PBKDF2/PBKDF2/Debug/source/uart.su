@@ -1,0 +1,6 @@
+C:\Users\hemanth\Documents\MCUXpressoIDE_11.4.1_6260\PBKDF2\PBKDF2\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\hemanth\Documents\MCUXpressoIDE_11.4.1_6260\PBKDF2\PBKDF2\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\Users\hemanth\Documents\MCUXpressoIDE_11.4.1_6260\PBKDF2\PBKDF2\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/uart.c:21:6:Init_UART0	16	static
+../source/uart.c:83:6:UART0_IRQHandler	16	static
+c:\nxp\mcuxpressoide_11.4.1_6260\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.4.0.202103011116\tools\redlib\include\sys\libconfig-arm.h:247:5:__sys_write	40	static

@@ -1,0 +1,5 @@
+C:\Users\hemanth\Documents\MCUXpressoIDE_11.4.1_6260\PBKDF2\PBKDF2\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+C:\Users\hemanth\Documents\MCUXpressoIDE_11.4.1_6260\PBKDF2\PBKDF2\CMSIS/core_cm0plus.h:885:26:SysTick_Config	16	static
+../source/profiler/profiler.c:16:6:start_profiler	8	static
+../source/profiler/profiler.c:22:6:SysTick_Handler	24	static
+../source/profiler/profiler.c:39:10:stop_profiler	8	static

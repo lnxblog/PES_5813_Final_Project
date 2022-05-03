@@ -16,3 +16,7 @@ For example when executed on the Profiler demo project binary we get the below r
 
 Similarly for the unoptimized PBKDF project binary used in Assignment 5 we get below results
 ![image](https://user-images.githubusercontent.com/13454264/166407130-d88a6409-77cd-404f-b307-ea15a7b388fc.png)
+
+## Video demo
+
+YouTube Link https://youtu.be/RoOxaC5RSPg
